@@ -1,0 +1,22 @@
+1.Git Bash (Install) :- 
+       1. https://git-scm.com (Download & install)
+       2. Checkbox -> Git Bash Here
+       3. Prefer -> Restart Your PC
+
+2.Hyperterminal (Install) :-
+       1. https://hyper.js (Download & install)
+
+3.Copy & Paste Hyperterminal :-
+         github Link :  https://gist.github.com/coco-napky/404220405435b3d0373e37ec43e54a23
+        1. copy file hyper.js
+        2. Go to = toggle Button 
+            i.   Edit
+            ii.  Preferences
+            iii. Delete All contant & Paste hyper.js
+            iv.  Save  & Restart
+            v.   Check Hyper is install or not 
+                        Command : $ echo $SHELL  Output : usr/bin/bash
+            
+
+
+       

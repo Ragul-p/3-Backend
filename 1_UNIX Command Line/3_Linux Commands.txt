@@ -1,0 +1,33 @@
+www.hackertyper.com
+https://serverfault.com
+htttps://Learnenough.com
+
+
+
+1.  $ mkdir Folder -> (Create Folder)
+2.  $ ls -a --------> (show Hidden File)
+3.  $ mkdir .Folder-> (Create Secret Folder)
+4.  $ ls -----------> (list files&folder)
+5.  $ cd Desktop/ --> (Change Directory)
+6.  $ cd ~     -----> (Change root Directory)
+7.  $ cd ..    -----> (Back)
+
+8.  $ mkdir MusicFolder -->(Create Folder)
+9.  $ touch text1.txt   -->(Create File)
+10. $ start text1.txt   -->(Open file in notepad)
+11. $ rm  text1.txt     -->(delete File)
+12. $ pwd               -->(Current Working Directory)
+13. $ rm *              -->(Delete All file)
+14. $ rm -r MusicFolder -->(Remove Folder)
+
+
+
+
+Hyperterminal (Shortcuts) :-
+ 
+1. Alt + Mouse Point --> go to edit show path 
+2. ctrl + A          --> Go First
+3. ctrl + E          --> Go Last
+4. Up Arrow          --> History
+5. Down Arrow        --> History
+6. ctrl + L          --> Clear ALL

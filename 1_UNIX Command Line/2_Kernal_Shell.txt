@@ -1,0 +1,21 @@
+Kernal :-
+      1.Actual Program Interface with the Hardware (Eg: OS)
+      2.Core Of Operating System
+
+Shell :-
+      1. Refers To User Interface (Eg: You User)
+
+
+
+1.Graphical User Interface (GUI)
+2.Command Line Interface (CLI)
+
+Bash - (Bourne Again Shell)
+
+UNIX:-
+  1.Linux is UNIX Like System
+  2.Lot of Server Run on Unix
+  3.Mac os 10 run UNIX
+
+Why Use Command Line ?
+   1. Make easy and fast do
