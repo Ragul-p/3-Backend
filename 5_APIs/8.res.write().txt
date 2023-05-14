@@ -1,0 +1,8 @@
+1.Only one res.send() of any given app methods
+2.But res.write() send multiple
+
+Eg:-
+
+res.write(<h1>Hello</h1>);
+res.write(<h1>World !</h1>);
+res.send();

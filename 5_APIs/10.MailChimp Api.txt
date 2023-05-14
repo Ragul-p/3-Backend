@@ -1,0 +1,15 @@
+Google :-
+      1.Mailchimp api
+      2.https://mailchimp.com/developer/
+      3.Get Started
+      4.SignUp  Free
+      5.Accounts --> Extras --> API Keys  Create a Key (or) Default
+      6.Audience --> Manage Audience --> Settings
+      7.Unique id for List The App Brewery   Eg: List Id  7b80hvs786e
+      8.Audience --> Settings  --> Audience fields and *| MERGE |* tags  *|EMAIL|*  or *|MERGEO|*
+   (you can Change Any Field)
+
+
+
+https://nodejs.org/api/https.html
+https://nodejs.org/api/https.html#httpsrequesturl-options-callback

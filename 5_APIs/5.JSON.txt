@@ -1,0 +1,55 @@
+JSON:-
+   1.JavaScript Object Notation
+   2.Much Lighter Weight Than Other
+   3.Very Easy To Turn Back into Javacscript Object 
+   4.Lot of Formate Available --> JSON, XML, HTML
+
+Chrome Add-on:-
+     JSON Viewer Awesome --> Click Value
+                             1.Copy Path
+                             2.Copy Value      
+
+
+
+
+1.Javascript Object:-
+  
+var wardrobe = {
+        doors:2,
+        drawers:2,
+        color:"red"
+}
+
+wardrobe:-
+   i. name of the object not string 
+   ii.not have " "
+ 
+Keys:-
+    doors --> Not String
+
+
+
+
+
+
+2.JSON Object:-
+
+"{doors:2,drawers:2,color:"red"}" --> Single String
+
+https://openweathermap.org/current#list
+
+
+
+
+
+
+
+---------->GET(request)-------->GET(request)-------------->
+Client                 Your                Someone Else's
+Browser                Server              Server
+<---response(html,css,js)<---response(data)<---------------
+
+
+
+
+

@@ -1,0 +1,16 @@
+1.To Download Software:-
+       https://www.postman.com/downloads/
+
+
+GET------>url-------------------->send
+
+Params 
+   Key ----------> Value
+    q               London
+    appid           (yourapi)
+    units           Metric
+
+
+One of the outputFormate 
+1.pretty ---> print output
+2.Json   ---> reurn dat

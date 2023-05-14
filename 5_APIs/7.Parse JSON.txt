@@ -1,0 +1,30 @@
+
+1.JSON.parser(data):-
+       i.Convert Single String into javascript object
+
+
+2.JSON.stringify(data):-
+        i.Javascript object Into Single String
+
+
+
+
+
+
+response.on("data",function(data){
+console.log(data);
+const weatherData = JSON.parse(data);
+console.log(weatherData);
+});
+
+
+output:-
+
+Hexadecimal 
+   <Buffer 7b 22 63
+           64 ... 410 more bytes>
+
+Hexadecimal Converter :-
+   https://cryptii.com/pipes/hex-to-text
+
+

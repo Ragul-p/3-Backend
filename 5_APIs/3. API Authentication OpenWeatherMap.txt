@@ -1,0 +1,17 @@
+API            : https://openweathermap.org/api
+Authentication : https://openweathermap.org/price
+
+
+
+Create Acccount In OpenWeatherMap :-
+   1.SignUp --> Create New Account --> Sign in To Your Account --> API Keys --> Key (Eg:q7gsghshbjuu) Generate & copy your Own Key
+   2.Refer API Docs
+
+
+
+
+1. API Link :-
+https://api.openweathermap.org/data/2.5/weather?q=Parise&appid=f19aa9719af93944f90cf3b826bca3f5&units=metric
+
+2.Order Not Matter :-
+https://api.openweathermap.org/data/2.5/weather?units=metric&q=Parise&appid=f19aa9719af93944f90cf3b826bca3f5

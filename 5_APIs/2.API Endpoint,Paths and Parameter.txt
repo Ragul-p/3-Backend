@@ -1,0 +1,48 @@
+4 Things:-
+  1. Endpoint
+  2. Paths
+  3. Parameter
+  4. Authentication
+
+
+
+Note : Single Load API is --> Single Hit Request
+
+1.Endpoint:-
+     Website  : https://kanye.rest/
+     Endpoint : https://api.kanye.rest/
+
+
+
+
+2.Path / Parameter :-
+     Website : https://jokeapi.dev/
+             : https://sv443.net/jokeapi/v2/
+
+     Endpoint: https://v2.jokeapi.dev/joke/Any
+ 
+     Path    : https://v2.jokeapi.dev/joke/Programming
+               https://v2.jokeapi.dev/joke/Dark
+
+               https://v2.jokeapi.dev/joke/Programming,Dark
+
+
+3.Parameter :-
+
+     Parameter : https://v2.jokeapi.dev/joke/Dark?contains=debugging
+                                                  ---Key----Value---
+                 https://v2.jokeapi.dev/joke/Dark?blacklistFlags=nsfw&type=single&contains=debugging
+                                                 (1)---key----value-(2)-key-value-(3)-key-----value-
+
+
+
+
+6 Stages Of Debugging :-
+      1.That Can Happend
+      2.That is Hapend  on my machine
+      3.That Shouldn't happpend
+      4.Why is Happend
+      5.Oh I See
+      6.None How To There Work
+
+

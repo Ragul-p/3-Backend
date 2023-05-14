@@ -1,0 +1,27 @@
+Google :-
+  1.Make get request to external server node
+  2.https node
+     https.get(url[,option][,callback])
+
+
+Deprecated ---> retaired
+
+
+htts: Native node module
+   const https = require("https");
+
+Note: Before Add Any API Link  --> https://
+
+
+https.get(url,function(response){
+console.log(response);
+console.log(response.statusCode);
+);
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+https://httpstatusdogs.com/
+
+1.change weather --> weatherr  //404 not found
+2.change app id                //401 Unauthorized
+
+418  --> I am a teapot

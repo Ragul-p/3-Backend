@@ -1,0 +1,41 @@
+Why Do We Need APIs:-
+       1.APIs- Application Programming Interface
+       2.An Application Programming Interface(API) is a set of commands,function,protocols and objects.
+       3.That Programmers can use to create Software or intract with an external System
+
+Eg:-
+    1.yahoo  --> openweathermap.org/api  --> Live Weather Data
+    2.tinder --> developers.facebook.com/docs/graph-api/reference/user/friends/
+    3.Uk     --> DATA.POLICE.UK 
+    4.Financial Modeling Prep API Documentation
+    5.Pokemon API
+
+
+Eg:-
+         Restraunt                             Kitchen
+         ->Lot of cakes you allow              ->Lot of Ingredient Not Allow
+i.Some API not use in your business logic
+
+1.Restraunt api --> 1.cake  2.sandwich  3.tea  4.coffe
+2.Weather api   --> 1.temperature  2. weather condition  3.weather image  4.Pressure 
+
+--> The contract between Data provider and developer
+
+
+1.APIs To Create Software:-
+     Eg:jQuery API --> To Provide method,access method,object
+
+2.APIs To Intract With External System:-
+     Eg:Tinder use Facebook api to find friends
+
+
+                 request
+Your   ------------API----------> SomeOne Else
+Server <------------------------  Server
+                 response
+
+
+
+
+
+  

@@ -1,0 +1,7 @@
+Express static():-
+    1.In order to server serve up static files Such as CSS,Images
+    2.We Need To Use Specific Function Static()
+
+
+Eg:-
+    app.use(express.static("public"));
