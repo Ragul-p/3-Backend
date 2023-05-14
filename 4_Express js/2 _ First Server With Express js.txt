@@ -1,0 +1,39 @@
+
+
+$ mkdir my-express-server
+$ cd my-express-server
+$ touch server.js
+$ npm init --> Enter
+
+https://expressjs.com
+https://expressjs.com/en/starter/installing.html
+
+$ npm install express
+
+https://expressjs.com/en/starter/hello-world.html
+https://expressjs.com/en/4x/api.html
+
+
+
+
+server.js
+
+//jshint esversion:6
+
+const express = reqire("express");
+const app = express();  // function that represent module
+app.listen(3000,function(){
+console.log("Server is running on port 3000");
+});
+
+
+
+Eg:   Port            --> 3000
+      Radio frequency --> 106.4
+
+In terminal Ctrl + C --> Server Close 
+
+Browser :
+        localhost:3000/     ===   https://www.google.com/
+        output:   cannot GET/
+

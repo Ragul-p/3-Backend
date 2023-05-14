@@ -1,0 +1,9 @@
+
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+100  --> Something Happend
+200  --> Success
+300  --> Security
+400  --> You (client error)
+500  --> I (Server Side)
+

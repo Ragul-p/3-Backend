@@ -1,0 +1,21 @@
+
+1. localhost:3000/  --> www.google.com/
+2. / --> location of GetRequest
+
+3.  request   --> User send Server
+    response  --> Server send Browser
+
+4. app.get()  --> 2 parameter
+                    i. route
+                    ii.callback function
+
+5. callback()   --> 2 parameter 
+                      i. request
+                      ii.response
+
+
+app.get("/",function(request,response){
+   // 1.  console.log(request);
+   // 2. response.send("Hello");
+   // 3. response.send("<h1>Hello</h1>")
+});

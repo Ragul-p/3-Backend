@@ -1,0 +1,5 @@
+1.
+Number(req.body.num1);
+
+2.
+ParseFloat(req.body.weight);

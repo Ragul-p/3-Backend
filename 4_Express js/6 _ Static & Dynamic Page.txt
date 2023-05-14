@@ -1,0 +1,9 @@
+1. Static Page(Website):-
+       1.req -- > res (html,css,js)
+       2.only client side not server
+       3.Show source code (html,css,javascript)
+
+2. Dynamic Page(Web Application):-
+       1.req -- > res 
+       2.execute code output delivery client
+       3.Not Show Server Code Business Logic Eg:node js

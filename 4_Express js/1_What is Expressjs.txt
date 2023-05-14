@@ -1,0 +1,23 @@
+Express JS :-
+
+nodejs --> Framework --> Expressjs
+Eg: Javascript --> jQuery
+
+    It is framework  a bunch of code somebody else wrote thats add extra feature that helps to organize and structure your code
+
+Eg :  Nodejs          -->  ExpressJs
+      NormalScrew     -->  MotorScrew
+
+
+
+
+
+
+
+
+
+
+
+
+
+
