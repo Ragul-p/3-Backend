@@ -1,1 +1,36 @@
 
+Full Stack = Front-End + Back-End
+
+
+Front-End (Language):-    Back-End (Language):-     Database(Language):-
+  1. HTML                    1.node js                 1.MySql
+  2. CSS                                               2.MangoDB
+  3.Javascript
+  4.Bootstrap
+  5.jQuery
+
+
+
+
+What is Exactly is the Backend ?
+      1. Server       --> Serve up Your File 24/7 (HTML,CSS,Javascript)
+      2. Application  --> Business Logic (Node js)
+      3. Database     --> Store User Data username , password (MySql, Maria DB)
+
+Website : Eventbrite
+
+
+RealTime:-
+
+     FrontEnd                          BackEnd
+
+1. ClientSide    ----------> Server     +     Database
+
+Eg:  Restaurant  ----------> Kitchen    +      Larder
+
+Language: Node js --> Express js
+
+
+
+
+    
