@@ -1,0 +1,20 @@
+Some Backend Language List :-
+          1.Java
+          2.Python
+          3.PHP
+          4.Ruby
+          5. .NET
+          6.Node js
+
+Why Nodejs ?
+     1.Node js allow to use javascript to Backend
+     2.superfast sclable fast running application
+     3.Node js Intrect directly to the hardware with the computer  
+
+Company Used :-
+      1.ebay
+      2.twitter
+      3.Netflix
+
+
+Install Node js

@@ -1,0 +1,66 @@
+npmjs.com
+
+      1.native node modules bundle with node js
+      2.In order to use library of code somebody else written in order to execute commanly bits of functionality
+
+NPM --> Node Package Manager
+    1. Package Manager for external Module
+    2. Anybody build you can Incoperate
+    3. World Large Collection The Package of Code
+
+Eg: Build House --> (Incroprate Tree Module) Not From Scratch
+    1.Bits of Reusable code Something else write & Incroprate Your Project
+
+
+
+$ mkdir intro-to-node
+$ touch index.js
+
+$ npm init
+package name: (intro-to-node)
+version: (1.0.0)                                                                                                                     
+description:    
+entry point:(index.js)                                                                                                                     
+git repository:                                                                                                                      
+keywords:                                                                                                                            
+author:                                                                                                                              
+license: (ISC)    
+
+Is this OK? (yes)  --> Enter
+
+
+1. Create package.json in Your Project
+2. Description of all npm package add
+
+
+
+
+1.SuperHero Name Print
+Search npm -->Superheroes
+
+$ npm install superheroes
+                         add   ----->   package.json --> "dependencies":{"superheroes":"1.0.0"}
+
+app.js
+
+const superheroes = require("superheroes");
+var superheroName = superheroes.random();
+console.log(superheroName);
+
+$ node app.js
+
+
+
+2.SuperVillian Name Print
+Search npm -->Superheroess
+$ npm install supervillains
+
+app.js
+
+const supervillan = require("supervillains");
+var supervillainName = supervillain.random();
+console.log(supervillainName);
+
+$ node app.js
+
+

@@ -1,0 +1,18 @@
+
+// run node js file on node
+$ touch index.js
+        console.log("Hello World !");
+
+$ node index.js
+
+
+
+// node REPL
+$ node
+> console.log("Hey There ! ");
+> 3+5;
+> "Angela" + "Yu";
+> con + tab
+> .exit  (or)  ctrl + C
+
+$ clear

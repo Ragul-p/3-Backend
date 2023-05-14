@@ -1,0 +1,9 @@
+var a = 10;
+    a = 5;  //Variable Can Vary
+
+
+Const  a = 2;  // Constant cannot change
+       a = 5' //error
+  
+Eg :
+       const pi = 3.14159   // pi value constant

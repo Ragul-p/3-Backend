@@ -1,0 +1,44 @@
+Native Node Modules :- 
+
+https://nodejs.org/api/
+
+      1.By Librating Javascript from the browser      
+      2.We Can Use node js With Intract Computer directly
+
+Example:
+      We Can Use node js to get access directly to the local files of computer
+
+Build In Model:-
+      1. File System
+
+Native Node Modules:-
+      1. When Install node It already come from Inbuild Whole Bunch Of Modules
+
+
+ 
+
+
+1.
+//jshint esversion:6    --> Refer Version
+Error : W104 - Const is available in ES6(use 'esversion:6') or Mozilla js extensions (use Moz)
+
+
+2. require()  --> Require a module or package
+
+
+
+app.js
+
+//jshint esversion:6
+const fs = require("fs")
+fs.copyFileSync("file1.txt","file2.txt");
+
+
+$ node app.js 
+ 
+//Output : all contant of file1.txt  --> copy to --> file2.txt
+
+
+
+
+
