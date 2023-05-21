@@ -1,1 +1,35 @@
 
+Google:-
+
+1.Date Get Day of the week javascript
+
+
+var today = new Date();
+
+var currentDay = today.getDay();
+                 // return Sunday   -->0  
+                 //        Saturday -->6
+
+
+if(currentDay===0 || currentDay ===6){
+res.send("It is weekend");
+}else{
+res.write("It is weekDay");
+res.write("Go To Work");
+}
+
+res.send();
+
+..........x..........x............x.........
+
+2.Javascript Date Formate
+
+
+var today = new Date();
+var option ={
+ weekday:"long",
+ day:"numeric",
+ month:"long"
+}
+
+var day = today.toLocalDateString("en-US",options);
