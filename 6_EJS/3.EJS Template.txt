@@ -1,0 +1,53 @@
+EJS:-
+  
+  https://ejs.co/
+  1.Several Tools Have Can use one of them ejs
+  2.EJS --> Embedded Javasript  Templating
+  3.Using EJS With Express -->  https://github.com/mde/ejs/wiki/Using-EJS-with-Express
+
+
+
+$ npm install ejs
+
+1.app.set("view engine","ejs");
+2.create Folder views (lowercase):-
+3.view engine by default and look for the files to render  
+4.express look throw views folder and look file
+5.views/list.ejs -->.ejs extension
+
+
+
+      1.app.js                                         2.list.ejs
+res.render("list",{kindOfDay:day}); 
+res.render("list",{kindOfDay:day,newListItem:item});                      
+                                                        <h1> Its a  
+Two Parameter:-                                         <%= kindOfDay %>
+1.ejs file name                                         </h1>
+2.object to send ejs
+
+
+
+EJS  --> Docs  tags
+
+1.Scriptlet Tag:-
+    1.<%   %>  --> Every Single Line Put Together
+    2.<% -----
+       ------ %>     Not Work
+
+
+Program:-
+
+<% if(kinfOfDay === "Sunday" || kindOfDay === "Saturday"){ %>
+<h1><%=kindOfDay%> WeekEnd </h1>
+<% }else{ %>
+<h1><%=kindOfDay%> WeekDay </h1>
+<% } %>
+
+
+Note: app.js   --> Logic Only Server
+      list.ejs --> Display Only HTMl element content
+      
+
+   
+            
+            

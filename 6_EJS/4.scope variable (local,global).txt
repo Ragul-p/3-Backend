@@ -1,0 +1,40 @@
+1. Local Variable:-
+
+       function a {
+           var x=2;
+           var y=10;
+          }
+
+ ---> Only Access Inside Method
+
+
+
+
+2.Global Variable:-
+
+         var x=2;
+         var y=10;
+ function a {
+         console.log(x);
+         console.log(y); 
+          }
+---> access use anywhere inside file
+
+
+
+
+
+3.Any Conditional Statement:-
+if/else,  for/while/dowhile
+
+
+if(true){
+
+var   x=2;  //Global
+let   y=3;  //Local
+const z=10; //Local
+}
+
+
+avoid --> var
+use   --> let,const

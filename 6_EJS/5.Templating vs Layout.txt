@@ -1,0 +1,11 @@
+Layouts or Partials:-
+
+
+  create file:-
+        1.header.ejs  -->Add Content Before <body>  (cut & paste)
+        2.footer.ejs  -->Add Content After </body>  (cut & paste)
+
+
+list.ejs
+    -->top     <%- include("header") -%>
+    -->bottom  <%- include("footer") -%>

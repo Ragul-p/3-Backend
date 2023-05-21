@@ -1,0 +1,39 @@
+1.date.js:-
+
+   create file --> date.js
+   console.log(module);  //return back node file object
+   console.log(module.exports); 
+
+   module.exports="Hello world";
+
+   module.exports.getDate=getDate;
+   function getDate(){
+     var day = new Date();
+     return day;
+     }
+       
+       (or)
+
+ module.exports.getDate= function(){
+     var day = new Date();
+     return day;
+     }
+
+        (or)
+
+exports.getDate= function(){
+     var day = new Date();
+     return day;
+     }
+
+
+
+2.app.js:-
+
+   const date = require(__dirname+"/date.js");
+   require()-- go inside the module try to run all of these code
+ 
+   console.log(date);   use   ()  --> Activate this function 
+ 
+   let day = date.getDate();
+   

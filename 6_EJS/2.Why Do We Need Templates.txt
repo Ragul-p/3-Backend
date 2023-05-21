@@ -1,0 +1,14 @@
+Why Do We Need Templates ?
+       1.What if want want send multiple pieces of html Back to Back the Browser
+       2.This res.send()  allow to one piece of data
+       3.Find send of Instruction
+         res.write()
+         res.write()
+         res.send()
+         It is Painful
+
+
+Templating:-
+     1.need to create HTML Template
+     2.Change Certain Part of HTML Depending on Logic in our server
+     3.All Files Have Same Content --> so use Template

@@ -1,0 +1,11 @@
+1. Const Array:-
+  
+      1.const My_Array=[];
+      2.My_Array.push("A"); //possible to push new item
+      3.My_Array = ["B"]    //not assign to new array
+
+
+2. Object:-
+    
+      1.Cannot Change Object
+      2.Only Change Key
